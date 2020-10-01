@@ -1,4 +1,4 @@
-# Scrapers
+# Scrapers - An Amazing Project
 This is going to be a repository for random scrapers I've come to develop over the years. These scripts have been published in the intention of data preservation.
 
 ## Description
